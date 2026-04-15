@@ -3,7 +3,6 @@ import org.openqa.selenium.*;
 
 public class LoginPage {
     WebDriver driver;
-
     public LoginPage(WebDriver d){ driver=d; }
     By user=By.id("username");
     By pass=By.id("password");
