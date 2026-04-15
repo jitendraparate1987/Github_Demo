@@ -14,6 +14,7 @@ public class LoginPage {
         driver.get(url);
         System.out.println("commit-1-Rebase");
         System.out.println("commit-2-Rebase");
+        System.out.println("commit-3-Rebase");
     }
 
     public void login(String u,String p){
