@@ -11,6 +11,7 @@ public class LoginPage {
     By title=By.tagName("title");
 
     public void open(String url){
+        System.out.println("Driver is yet to launch web browser");
         driver.get(url);
     }
 
