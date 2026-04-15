@@ -3,7 +3,6 @@ import org.openqa.selenium.*;
 
 public class LoginPage {
     WebDriver driver;
-
     public LoginPage(WebDriver d){ driver=d; }
     By user=By.id("username");
     By pass=By.id("password");
@@ -11,6 +10,7 @@ public class LoginPage {
     By title=By.tagName("title");
 
     public void open(String url){
+        System.out.println("Driver is yet to launch web browser");
         driver.get(url);
     }
 
