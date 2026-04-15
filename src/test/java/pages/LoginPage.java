@@ -12,6 +12,7 @@ public class LoginPage {
     public void open(String url){
         System.out.println("Driver is yet to launch web browser");
         driver.get(url);
+        System.out.println("commit-1-Rebase");
     }
 
     public void login(String u,String p){
