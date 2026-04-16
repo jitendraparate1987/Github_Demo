@@ -13,11 +13,13 @@ public class LoginPage {
         System.out.println("Driver is yet to launch web browser");
         driver.get(url);
         System.out.println("commit-1-Rebase");
-        System.out.println("commit-2-Rebase");
         System.out.println("commit-3-Rebase");
+        System.out.println("commit-2-Rebase");
         System.out.println("commit-4-Rebase");
-        System.out.println("commit-5-Rebase");
         System.out.println("commit-6-Rebase");
+
+
+
 
     }
 
