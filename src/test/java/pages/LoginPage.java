@@ -18,8 +18,10 @@ public class LoginPage {
         System.out.println("commit-4-Rebase");
         System.out.println("commit-6-Rebase");
 
-
-
+        System.out.println("commit-32-Rebase");
+        System.out.println("commit-67-Rebase");
+        System.out.println("commit-55-Rebase");
+        System.out.println("commit-9-Rebase");
 
     }
 
